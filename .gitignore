@@ -1,0 +1,10 @@
+.DS_Store
+.vscode
+node_modules
+error/
+dist/
+npm-debug.log*
+*.swp
+yarn.*
+package-lock.json
+yarn-error.log
