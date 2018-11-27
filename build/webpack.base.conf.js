@@ -11,6 +11,7 @@ module.exports = {
   entry: {
     app: './src/entry-client.js'
   },
+  mode: 'development',
   output: {
     path: resolve('dist'),
     filename: '[name].js',
